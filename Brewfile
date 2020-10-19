@@ -68,6 +68,7 @@ cask 'figma'
 
 ## Media
 cask 'iina'
+cask 'spotify'
 cask 'calibre'
 
 # Fonts
