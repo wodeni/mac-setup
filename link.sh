@@ -1,1 +1,1 @@
-ln -sf $(pwd)/Brewfile ~/.Brewfile
+ln -sf $(pwd)/Brewfile ~/Brewfile

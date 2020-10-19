@@ -35,6 +35,7 @@ brew 'haskell-stack'
 
 # Mac Apps
 ## Communication
+cask 'wechat'
 cask 'slack'
 cask 'skype'
 cask 'zoomus'
@@ -49,6 +50,7 @@ cask 'notion'
 
 ## System
 cask 'the-unarchiver'
+cask 'google-backup-and-sync'
 
 ## Editor
 cask 'visual-studio-code'
@@ -62,7 +64,7 @@ cask 'mactex'
 
 ## Graphics
 cask 'adobe-creative-cloud'
-cask 'cask'
+cask 'figma'
 
 ## Media
 cask 'iina'
