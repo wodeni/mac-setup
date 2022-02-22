@@ -30,12 +30,11 @@ brew 'rsync'
 brew 'git'
 brew 'nvm'
 brew 'node'
+brew 'yarn'
 brew 'svn'
-brew 'haskell-stack'
 
 # Mac Apps
 ## Communication
-cask 'wechat'
 cask 'slack'
 cask 'skype'
 cask 'zoomus'
@@ -43,14 +42,12 @@ cask 'zoomus'
 ## Productivity
 cask 'docker'
 cask 'google-chrome'
-cask 'clipy'
-cask 'cheatsheet'
-cask 'shiftit'
 cask 'notion'
+cask 'rectangle'
 
 ## System
 cask 'the-unarchiver'
-cask 'google-backup-and-sync'
+cask 'google-drive'
 
 ## Editor
 cask 'visual-studio-code'
@@ -61,6 +58,10 @@ brew 'vim'
 cask 'firefox'
 cask 'iterm2'
 cask 'mactex'
+
+## Academic
+cask 'zotero'
+cask 'mendeley'
 
 ## Graphics
 cask 'adobe-creative-cloud'
