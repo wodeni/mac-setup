@@ -59,3 +59,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 
 echo "Installing im-select"
 curl -Ls https://raw.githubusercontent.com/daipeihust/im-select/master/install_mac.sh | sh
+
+# Logins
+echo "Login to GitHub"
+gh auth login 
